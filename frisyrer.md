@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Bilder
-permalink: /bilder/
+title: Frisyrer
+permalink: /frisyrer/
 ---
 
-Bilder här!
 
 ![Face1]({{site.url}}/assets/img/face1.jpg)
 ![Face2]({{site.url}}/assets/img/face2.jpg)
