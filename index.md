@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+![Salongen]({{site.url}}/assets/img/store.jpg)
