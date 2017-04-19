@@ -13,20 +13,6 @@ ruby RUBY_VERSION
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "2.0.0"
-gem "jekyll-swiss", "0.4.0"
-gem "jekyll-theme-primer", "0.1.8"
-gem "jekyll-theme-architect", "0.0.4"
-gem "jekyll-theme-cayman", "0.0.4"
-gem "jekyll-theme-dinky" , "0.0.4"
-gem "jekyll-theme-hacker", "0.0.4"
-gem "jekyll-theme-leap-day", "0.0.4"
-gem "jekyll-theme-merlot"        , "0.0.4"
-gem "jekyll-theme-midnight"      , "0.0.4"
-gem "jekyll-theme-minimal"       , "0.0.4"
-gem "jekyll-theme-modernist"     , "0.0.4"
-gem "jekyll-theme-slate"         , "0.0.4"
-gem "jekyll-theme-tactile"       , "0.0.4"
-gem "jekyll-theme-time-machine"  , "0.0.4"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -38,5 +24,5 @@ group :jekyll_plugins do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+#gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
